@@ -165,7 +165,7 @@ dnsenum example.com
 
 ## Output:
 
-<img width="1919" height="977" alt="Screenshot 2025-09-04 104949" src="https://github.com/user-attachments/assets/edd4e1cf-2c71-47e7-9be2-9b97af1b5729" />
+<img width="1920" height="1080" alt="KALI  Running  - Oracle VirtualBox 13-09-2025 08_59_23" src="https://github.com/user-attachments/assets/3c17c03f-dc26-48e0-ad8f-a6b2eb52497d" />
 
 
 ## smtp-user-enum
@@ -178,7 +178,7 @@ smtp-user-enum -M VRFY -U users.txt -t <target-ip>
 ```
   
  ## Output
-<img width="1918" height="548" alt="image" src="https://github.com/user-attachments/assets/e9bfcdf3-b1d9-41c8-b4d5-663de0701f88" />
+<img width="1920" height="1080" alt="KALI  Running  - Oracle VirtualBox 13-09-2025 09_01_55" src="https://github.com/user-attachments/assets/0a8b4314-86b9-4b78-a5d9-9339f7ebd940" />
 
 ## nmap –script smtp-enum-users.nse <hostname>
 
@@ -190,7 +190,6 @@ smtp-user-enum -M VRFY -U users.txt -t <target-ip>
 nmap -p 25 --script smtp-enum-users.nse <target-ip>
 ```
 ## OUTPUT:
-![Uploading 485479413-a8642a62-a5f9-415f-817e-14a6c54d7d71.png…]()
 
 ## RESULT:
 The Google hacking keywords and enumeration tools were identified and executed successfully
