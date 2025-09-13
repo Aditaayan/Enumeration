@@ -57,28 +57,21 @@ Open terminal and try execute some kali linux commands
 
 # Output:
 # SITE:
-<img width="1919" height="1026" alt="image" src="https://github.com/user-attachments/assets/daa10ffb-f7ac-48d1-a687-f74b6e62a04f" />
+=<img width="952" height="865" alt="Screenshot 2025-09-13 091909" src="https://github.com/user-attachments/assets/4c33a49d-700e-490a-96cf-28b0cce072a2" />
 
 # INURL:
-<img width="1919" height="868" alt="image" src="https://github.com/user-attachments/assets/720a6073-4f0c-467f-ad25-14846b464c38" />
+<img width="946" height="934" alt="Screenshot 2025-09-13 091930" src="https://github.com/user-attachments/assets/918efc28-a5b7-497c-bc49-3e59cc9f1a23" />
 
 # INTITLE:
-<img width="1919" height="871" alt="image" src="https://github.com/user-attachments/assets/43985195-a8a3-4ff9-8c5b-018a47057f8e" />
+<img width="934" height="970" alt="Screenshot 2025-09-13 091949" src="https://github.com/user-attachments/assets/84074abc-16fc-49fb-aefa-e0f84441e24f" />
 
 # FILETYPE:
-<img width="1919" height="869" alt="image" src="https://github.com/user-attachments/assets/e455db6c-efe1-42b7-828a-325b7a6680e8" />
 
 # INTEXT:
-<img width="1919" height="876" alt="image" src="https://github.com/user-attachments/assets/ed2be6fa-5f62-439a-ae09-608813e644ea" />
+<img width="951" height="966" alt="Screenshot 2025-09-13 092013" src="https://github.com/user-attachments/assets/5d721baa-45b2-4971-b0a9-a1a1022e5976" />
 
 # LINK:
-<img width="1918" height="875" alt="image" src="https://github.com/user-attachments/assets/27b906ee-1b12-4201-80c1-2c49c765f24e" />
-
-# CACHE:
-<img width="1919" height="877" alt="image" src="https://github.com/user-attachments/assets/2d925b92-eb81-47d2-88e0-fd537c42bfb0" />
-
-# EXT:
-<img width="1919" height="868" alt="image" src="https://github.com/user-attachments/assets/a39995bf-19c1-44e8-8543-11225e82e820" />
+<img width="946" height="966" alt="Screenshot 2025-09-13 092033" src="https://github.com/user-attachments/assets/f4306e48-4acf-43c7-8357-71192e33706f" />
 
 # DNS Enumeration
 <img width="1919" height="977" alt="Screenshot 2025-09-04 104949" src="https://github.com/user-attachments/assets/a9e9d474-e587-4c7e-b6af-eb5dbf8a9d25" />
@@ -111,19 +104,17 @@ Open terminal and try execute some kali linux commands
 
 ## OUTPUT:
 # NSLOOKUP:
-<img width="1567" height="837" alt="image" src="https://github.com/user-attachments/assets/ad9782b0-d8eb-45de-92fc-d0ae7ad134b1" />
 
 # DIG:
-<img width="877" height="772" alt="image" src="https://github.com/user-attachments/assets/3f767427-ee4e-41fa-8cc0-21b571f7f36f" />
+<img width="1920" height="1080" alt="KALI  Running  - Oracle VirtualBox 13-09-2025 09_11_39" src="https://github.com/user-attachments/assets/134567bb-5669-4514-b528-9ab35fd65071" />
 
 # HOST:
-<img width="830" height="543" alt="image" src="https://github.com/user-attachments/assets/68065815-addd-44ae-9d2c-6d50566353e7" />
 
 # FIERCE:
-<img width="1917" height="832" alt="image" src="https://github.com/user-attachments/assets/6b2b3546-c8c4-4623-a4b1-dd7c96ff93c7" />
+<img width="612" height="72" alt="KALI  Running  - Oracle VirtualBox 13-09-2025 09_12_52" src="https://github.com/user-attachments/assets/35245eca-aa9c-4b6e-8f52-3343c3bcde74" />
 
 # HARVESTER:
-<img width="1020" height="757" alt="image" src="https://github.com/user-attachments/assets/303ed9fe-40d0-453b-835f-3adfd1b96b4e" />
+<img width="1920" height="1080" alt="KALI  Running  - Oracle VirtualBox 13-09-2025 09_16_46" src="https://github.com/user-attachments/assets/9604aeac-5b5e-4ed9-9752-db5cbd35d668" />
 
 
 ## Architecture Diagram 
